@@ -108,6 +108,7 @@ section {
   border-radius: 10px;
   margin-block: 1rem;
   background: var(--base-clr);
+  overflow: hidden;
 }
 
 .section-wrap {

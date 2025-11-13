@@ -126,7 +126,7 @@ section {
   border: 3px solid white;
   display: block;
   border-radius: 50%;
-  background: url(/src/images/Emoji2.png);
+  background: url(/src/images/profile-pic.jpg);
   background-size: cover;
 }
 
